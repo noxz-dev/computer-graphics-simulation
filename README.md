@@ -1,10 +1,10 @@
-# Computer graphics Interpolation and Simulation
+# Computergraphics Interpolation and Simulation
 
 ```
 npm install
 ```
 
-### Kompilieren und Server starten
+### to run the dev server
 
 ```
 npm run serve
