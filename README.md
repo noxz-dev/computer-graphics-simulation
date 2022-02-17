@@ -1,6 +1,6 @@
 # Computergraphics Interpolation and Simulation
 
-This project shows the Bézier curve, the quaternion rotation and the sequential execution of the them. Furthermore, there is a particle simulation in the form of a cloth simulation using different integrators.
+This project shows the Bézier curve, the quaternion rotation and the sequential execution of them. Furthermore, there is a particle simulation in the form of a cloth simulation using different integrators.
 
 # Dev Setup
 
